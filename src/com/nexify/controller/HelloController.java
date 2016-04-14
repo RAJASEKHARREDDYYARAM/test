@@ -9,7 +9,8 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class HelloController {
  
-	
+	];
+[o'iuoiyutyrtdrsedfghyujiop
 	@Autowired
 	
 	@RequestMapping("/welcome")
